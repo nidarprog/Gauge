@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="6.12.0" />
+    <PackageReference Include="Gauge.CSharp.Lib" Version="0.9.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="4.15.0" />
+  </ItemGroup>
+
+</Project>
